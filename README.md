@@ -1,5 +1,5 @@
 
-<p> Apres avoir cloner le projet il faut instaler:
+<p> Apres avoir cloner le projet il faut instaler:<br>
 <b>1)composer require google/apiclient:^2.0<b></p>
 <b>2)<br>
     composer install<br> 
