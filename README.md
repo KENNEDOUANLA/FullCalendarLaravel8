@@ -1,11 +1,13 @@
 
-<p> Apres avoir cloner le projet il faut instaler: <b>composer require google/apiclient:^2.0<b></p>
-<p>composer install 
-mv .env.example .env 
-php artisan cache:clear 
-composer dump-autoload 
-php artisan key:generate<p>
-<p>Il faut aussi le fichier client-key.json obtenu lors de le création du projet google"</p>
+<p> Apres avoir cloner le projet il faut instaler:
+<b>1)composer require google/apiclient:^2.0<b></p>
+<b>2)<br>
+    composer install<br> 
+    mv .env.example .env<br>
+    php artisan cache:clear <br>
+    composer dump-autoload <br>
+    php artisan key:generate<p>
+<p>3)Il faut aussi le fichier client-key.json obtenu lors de le création du projet google"</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
