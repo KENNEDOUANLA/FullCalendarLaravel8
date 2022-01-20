@@ -1,6 +1,6 @@
 
 <p> Apres avoir cloner le projet il faut instaler:<br>
-<b>1)google/apiclient:^2.0 </b> (utiliser la commande : composer require google/apiclient:^2.0)</p>
+1)<b>google/apiclient:^2.0 </b> (utiliser la commande : composer require google/apiclient:^2.0)</p>
    2) executer en suite cette commande:<b><br>
     composer install<br> 
     mv .env.example .env<br>
